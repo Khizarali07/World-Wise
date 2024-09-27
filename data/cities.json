@@ -1,0 +1,64 @@
+{
+  "cities": [
+    {
+      "id": "14b6",
+      "cityName": "Loralai",
+      "country": "Pakistan",
+      "emoji": "🇵🇰",
+      "date": "2024-09-14T09:02:21.056Z",
+      "notes": "",
+      "position": {
+        "lat": "30.548155742225326",
+        "lng": "68.07230597924627"
+      }
+    },
+    {
+      "id": "7b49",
+      "cityName": "Nakur",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-09-14T09:08:53.130Z",
+      "notes": "",
+      "position": {
+        "lat": "29.674367153574153",
+        "lng": "77.23698648210413"
+      }
+    },
+    {
+      "id": "d8dd",
+      "cityName": "Wad",
+      "country": "Pakistan",
+      "emoji": "🇵🇰",
+      "date": "2024-09-17T11:24:53.313Z",
+      "notes": "",
+      "position": {
+        "lat": "27.356802633451718",
+        "lng": "66.35897208097435"
+      }
+    },
+    {
+      "id": "7344",
+      "cityName": "Tomar",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2024-09-17T11:25:54.178Z",
+      "notes": "",
+      "position": {
+        "lat": "39.64352605653617",
+        "lng": "-8.305125093646833"
+      }
+    },
+    {
+      "id": "2bce",
+      "cityName": "Anchuelo",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-09-17T11:26:08.197Z",
+      "notes": "",
+      "position": {
+        "lat": "40.48355111926813",
+        "lng": "-3.2923106641918753"
+      }
+    }
+  ]
+}
