@@ -12,7 +12,7 @@
     "server": "json-server --watch data/cities.json --port 9000",
     "start": "concurrently \"npm run dev\" \"npm run server\"",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "datepicker": "^0.0.0",
